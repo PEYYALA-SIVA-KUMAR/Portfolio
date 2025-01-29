@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+img {
+    padding-top: 50px;
+    position: relative;
+    left: 130px;
+    bottom: 80px;
+    width: 450px;
+    border-radius: 50%;
+    float: left;
+}
+#Alex a{
+    color: brown;
+    text-decoration: none;
+   position: relative;
+   left: 100px;
+  
+
+}
+
+
+#Navbar div{
+    color: black;
+
+}
+div {
+    display: flex;
+    justify-content: center;
+    margin-left: 90px;
+   margin-top: 30px;
+    position: relative;
+    left: 100px;
+    text-decoration: none;
+   
+   
+    
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+    color: white
+
+}
+a:hover{
+    color: brown;
+    border-bottom: 3px solid brown;
+}
+
+
+.hi h1{
+    position: relative;
+    top:30px;
+    right: 250px;
+   
+   
+    color: white;
+
+}
+.you h2{
+    position: relative;
+    top: 30px;
+   right: 190px;
+    color: white;
+
+}
+.lore {
+    position: relative;
+   top: 50px;
+   right: 120px;
+    color: white;
+   right: 70px;
+
+}
+
+
+.Content {
+    position: relative;
+    left: 200px;
+   
+    
+}  
+button{
+    color: black;
+    font-size: large;
+    position: relative;
+   left: 300px;
+    top: 130px;
+    border-radius: 30px;
+    width: 120px;
+    color: brown;
+    border-color: brown;
+    border-top-right-radius: 0;
+}
+button:hover{
+    color: white;
+
+}
